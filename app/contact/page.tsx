@@ -50,7 +50,7 @@ const ContactUs = () => {
               />
               <h3 className="text-2xl font-semibold mt-4">Email Us</h3>
               <p className="text-crescent-dark-brown mt-2">
-                info@crescentsaline.com
+                zaheer.ahmad.contact@gmail.com
               </p>
             </div>
             <div className="flex flex-col items-center">
@@ -59,7 +59,9 @@ const ContactUs = () => {
                 size={36}
               />
               <h3 className="text-2xl font-semibold mt-4">Call Us</h3>
-              <p className="text-crescent-dark-brown mt-2">+123 456 7890</p>
+              <p className="text-crescent-dark-brown mt-2">
+                +92 (0) 336 786 00 90
+              </p>
             </div>
             <div className="flex flex-col items-center">
               <MapPin
@@ -68,7 +70,8 @@ const ContactUs = () => {
               />
               <h3 className="text-2xl font-semibold mt-4">Visit Us</h3>
               <p className="text-crescent-dark-brown mt-2">
-                123 Salt Street, New York, NY
+                H-1, Main Mujahid Town, Sangjani near Sangjani Toll Plaza
+                GT-Road Islamabad, 44000 Pakistan{" "}
               </p>
             </div>
           </div>
